@@ -52,6 +52,9 @@ If you want to build your own app using streaming bittorent in Node you should c
 
 ## Chromebook users
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 Chromebooks are set to refuse all incoming connections by default - to change this:  
 
 ```
